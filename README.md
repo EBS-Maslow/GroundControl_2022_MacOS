@@ -9,7 +9,7 @@ Ground Control is the program which allows you to control the Maslow CNC machine
 
 Ground Control is the program which allows you to control the [Maslow CNC machine](https://www.eastbaysource.com).
 
-From within [Ground Control (https://www.eastbaysource.com/index.php/user-guide/ground-control), you can move the machine to where you want to begin a cut, calibrate the machine, open and run a g-code file, or monitor the progress of an ongoing cut.
+From within [Ground Control] (https://www.eastbaysource.com/index.php/user-guide/ground-control), you can move the machine to where you want to begin a cut, calibrate the machine, open and run a g-code file, or monitor the progress of an ongoing cut.
 
 At present, the UI looks like this:
 
